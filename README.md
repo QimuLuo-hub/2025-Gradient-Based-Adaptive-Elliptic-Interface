@@ -10,7 +10,7 @@ $$
 
 where the coefficient $\beta$ is piecewise constant and can jump sharply across the interface $\Gamma$.
 
-This is the cleaned-up 2025 code base for the SURF 2024 project [Deep Learning for Plasma Simulation](https://github.com/QimuLuo-hub/DL-for-Plasma-Simulation) (poster, slides and report are there). The energy-based extension of the method was published in *East Asian Journal on Applied Mathematics* ([paper](https://doi.org/10.4208/eajam.2025-069.100925), [code](https://github.com/QimuLuo-hub/Energy-Based-Adaptive-Deep-Unfitted-Nitsche-Method-for-Elliptic-Interface-Problems)).
+This is the cleaned-up 2025 code base for the SURF 2024 project [Deep Learning for Plasma Simulation](https://github.com/QimuLuo-hub/2024-SURF-Deep-Learning-for-Plasma-Simulation) (poster, slides and report are there). The energy-based extension of the method was published in *East Asian Journal on Applied Mathematics* ([paper](https://doi.org/10.4208/eajam.2025-069.100925), [code](https://github.com/QimuLuo-hub/2025-EAJAM-Energy-Based-Adaptive-Deep-Unfitted-Nitsche)).
 
 ## Method
 
